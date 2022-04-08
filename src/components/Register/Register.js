@@ -4,7 +4,9 @@ const Register = () => {
     return (
         <div>
             <h2>Please Register!!</h2>
-            <input type="submit" value="SignIn With Google" />
+            <div>
+                <input type="submit" value="SignIn With Google" />
+            </div>
             <form>
                 <input type="text" placeholder='Enter Your Name' />
                 <br />
